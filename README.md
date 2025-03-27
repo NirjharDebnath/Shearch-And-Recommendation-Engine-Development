@@ -1,2 +1,2 @@
-# Shearch-And-Recommendation-Engine-Development
+# Shearch And Recommendation Engine Development
 search engine and recommendation algorithms and implementation
